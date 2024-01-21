@@ -31,3 +31,5 @@ yarn serve
 - v-slot
 
 ![image](https://user-images.githubusercontent.com/65283190/141650789-bf3a7e24-31dd-4b1f-a226-a46da30a335e.png)
+
+![image](https://github.com/Vinca0121/FleaMarket/assets/98202797/f4eaddec-e8eb-4a59-85dd-fee9f1b1a5ac)
