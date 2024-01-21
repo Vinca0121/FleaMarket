@@ -4,7 +4,7 @@
 
 - Book detail page -> wooseong
 - Else page -> bepyan
-- Backend -> oune
+- Backend -> oune, vinca0121
 ---
 ```
 yarn install
