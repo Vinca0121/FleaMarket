@@ -28,7 +28,7 @@ yarn serve
 - v-parallax
 - v-text-field, v-container, v-card, v-dialog 등을 통한 레이아웃 구성
 - vuetify css class를 통한 스타일 구성
-- v-slot
+- v-slott
 
 ![image](https://user-images.githubusercontent.com/65283190/141650789-bf3a7e24-31dd-4b1f-a226-a46da30a335e.png)
 
