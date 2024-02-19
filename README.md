@@ -12,7 +12,7 @@ yarn serve
 ```
 
 > 사이트 주소
-> https://kit-fleamarket.web.app/about (서버 내림)
+> https://kit-fleamarket.web.app/aboutㅅ (서버 내림)
 
 
 ### 플러그인
