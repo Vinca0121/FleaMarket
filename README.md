@@ -9,8 +9,7 @@
 ```
 yarn install
 yarn serve
-``` 
-
+```  
 > 사이트 주소
 > https://kit-fleamarket.web.app/aboutㅅ (서버 내림)
 
